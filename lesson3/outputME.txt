@@ -1,0 +1,1 @@
+{'TGTCA', 'CTGTC', 'GTGTA', 'GTGTC', 'GTATC', 'GGTGT', 'GTTTC', 'GTCTC', 'AGTGT', 'TGTCT'}
